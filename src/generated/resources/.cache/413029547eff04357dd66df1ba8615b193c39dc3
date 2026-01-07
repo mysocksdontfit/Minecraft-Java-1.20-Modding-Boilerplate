@@ -1,0 +1,7 @@
+// 1.20	2026-01-06T19:42:51.4763227	Block States: tutorialmod
+9270ac057be84eb91066f4dd2ee5457fe312a997 assets/tutorialmod/blockstates/chariote_block.json
+b10bd074c550a5db72cd0fac931a2de599d07f0a assets/tutorialmod/blockstates/deepslate_chariote_ore.json
+862050de0ff5704fcb446bb6d1a1c1112577dce8 assets/tutorialmod/models/block/chariote_block.json
+17df19bd057435bfc539542e7ba3a2c09773b408 assets/tutorialmod/models/block/deepslate_chariote_ore.json
+9211b3576f0232251c0f9df3bf03a3157269f27d assets/tutorialmod/models/item/chariote_block.json
+af02335642ea04198d7e27e8b0814226194cad75 assets/tutorialmod/models/item/deepslate_chariote_ore.json

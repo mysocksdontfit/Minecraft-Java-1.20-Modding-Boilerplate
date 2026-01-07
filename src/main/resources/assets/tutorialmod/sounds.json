@@ -1,0 +1,32 @@
+
+{  "sound_block_break": {
+    "subtitle": "sounds.tutorialmod.sound_block_break",
+    "sounds": [
+      "tutorialmod:tink_meow"
+    ]
+  },
+  "sound_block_step": {
+    "subtitle": "sounds.tutorialmod.sound_block_step",
+    "sounds": [
+      "tutorialmod:tink_meow"
+    ]
+  },
+  "sound_block_place": {
+    "subtitle": "sounds.tutorialmod.sound_block_place",
+    "sounds": [
+      "tutorialmod:tink_meow"
+    ]
+  },
+  "sound_block_hit": {
+    "subtitle": "sounds.tutorialmod.sound_block_hit",
+    "sounds": [
+      "tutorialmod:tink_meow"
+    ]
+  },
+  "sound_block_fall": {
+    "subtitle": "sounds.tutorialmod.sound_block_fall",
+    "sounds": [
+      "tutorialmod:tink_meow"
+    ]
+  }
+}

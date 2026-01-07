@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/solid_all",
+  "textures": {
+    "all": "tutorialmod:block/chariote/deepslate_chariote_ore"
+  }
+
+}

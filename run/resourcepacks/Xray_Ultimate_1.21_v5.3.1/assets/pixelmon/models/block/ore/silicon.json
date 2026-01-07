@@ -1,0 +1,7 @@
+{
+  "parent": "block/solid_all",
+  "textures": {
+    "particle": "pixelmon:block/ore/silicon",
+    "all": "pixelmon:block/ore/silicon"
+  }
+}
