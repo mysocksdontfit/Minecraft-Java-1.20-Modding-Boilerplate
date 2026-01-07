@@ -33,8 +33,6 @@ public class TutorialMod {
         ItemInit.ITEMS.register(bus);
         BlockInit.BLOCKS.register(bus);
         CreativeTabInit.TABS.register(bus);
-        LOGGER.debug("\n\n\n\n\n\n\n\n\n\n" + CreativeTabInit.BLOCK_REGISTRY_COLLECTION);
-         // may come back to haunt me
     }
 //    @Mod.EventBusSubscriber(modid = MODID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 //    public static class ClientModEvents {

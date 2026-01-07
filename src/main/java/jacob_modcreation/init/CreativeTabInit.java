@@ -39,7 +39,7 @@ public class CreativeTabInit {
     public static final RegistryObject<CreativeModeTab> EXAMPLE_TAB = TABS.register("example_tab",
             () -> CreativeModeTab.builder()
                     .title(Component.translatable("Chariote"))
-                    .icon(ItemInit.CHARIOTE_IGNOT.get()::getDefaultInstance)
+                    .icon(Items.DIAMOND_ORE::getDefaultInstance)
                     .displayItems(((itemDisplayParameters, output)
                             -> EXAMPLE_TAB_ITEMS.forEach(itemLike -> output.accept(itemLike.get()))))
                     .build()
@@ -82,8 +82,8 @@ public class CreativeTabInit {
 
     @SubscribeEvent
     public static void buildContents(BuildCreativeModeTabContentsEvent event) {
-        if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS){
-        }
+//        if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS){
+//        }
 //
 //        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS){
 //            event.accept(TINK);

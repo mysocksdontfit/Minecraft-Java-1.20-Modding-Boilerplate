@@ -16,13 +16,5 @@ public class BlockInit {
 
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, TutorialMod.MODID);
 
-    public static final RegistryObject<Block> DEEPSLATE_CHARIOTE_ORE
-            = registerBlock("deepslate_chariote_ore", () -> new Block(Block.Properties.of().strength(0.1f)));
-
-    public static final RegistryObject<Block> CHARIOTE_BLOCK
-            = registerBlock("chariote_block", () -> new Block(Block.Properties.of().strength(0.1f)));
-
-
-
 
 }
